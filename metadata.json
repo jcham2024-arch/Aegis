@@ -1,0 +1,6 @@
+{
+  "name": "Aegis-Agent: Zero-Trust Orchestrator & Perchance AST Generator",
+  "description": "Zero-Trust Local-First Agentic Orchestrator and Perchance Chat Generator AST Engine with Admin Dashboard, Monadic Error Handling, Loom Thread Telemetry, and Multi-Provider LLM Gateway.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
